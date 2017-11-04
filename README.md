@@ -5,7 +5,7 @@
 
 Hello **HackerRankers** !!
 This is where you can find solutions to HackerRank C++ tasks. I will be learning cpp and at the same
-time learning and posting here.
+time posting here.
 _stay tuned_
 
 Task URL | Solution URL
