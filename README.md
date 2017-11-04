@@ -10,5 +10,5 @@ _stay tuned_
 
 Task URL | Solution URL
 ---------|-------------
-[Here](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[Here](https://github.com/hbibz-journey/hackerrank-sol-cpp/blob/master/cpp-input-and-output.cpp)
+[cpp-input-and-output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[Here](https://github.com/hbibz-journey/hackerrank-sol-cpp/blob/master/cpp-input-and-output.cpp)
 
