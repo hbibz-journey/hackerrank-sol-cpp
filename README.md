@@ -11,4 +11,5 @@ _stay tuned_
 Task URL | Solution URL
 ---------|-------------
 [cpp-input-and-output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[Here](https://github.com/hbibz-journey/hackerrank-sol-cpp/blob/master/cpp-input-and-output.cpp)
+[basic-data-types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[Here](https://github.com/hbibz-journey/hackerrank-sol-cpp/blob/master/basic-data-types.cpp)
 
